@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorUno">#90C651</color>
+    <color name="colorDos">#FFEB3B</color>
+    <color name="colorTres">#009688</color>
+    <color name="colorCuatro">#2196F3</color>
+    <color name="colorCinco">#00BCD4</color>
+    <color name="colorSeis">#3F51B5</color>
+    <color name="colorSiete">#DDA85A</color>
+    <color name="colorOcho">#CC5CDF</color>
+    <color name="colorNueve">#EC776F</color>
+
+</resources>
